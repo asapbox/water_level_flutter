@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "lightchart",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/pichukov/LightChart",
+      "state" : {
+        "revision" : "c5e097a63611f4b80686afcd0643a51131ce8378",
+        "version" : "1.0.2"
+      }
+    }
+  ],
+  "version" : 2
+}

@@ -1,0 +1,16 @@
+{
+  "searchHomePage": "Search",
+
+  "addToFavoriteGaugeDetailPage": "Add to favorite",
+
+  "cancel": "Cancel",
+  "delete": "Delete",
+
+  "centimeterShort": "cm.",
+  "meterShort": "m.",
+  "yearShort": "y.",
+
+  "week": "Week",
+  "month": "Month",
+  "year": "Year"
+}

@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "LightChart",
+        "repositoryURL": "https://github.com/pichukov/LightChart",
+        "state": {
+          "branch": null,
+          "revision": "c5e097a63611f4b80686afcd0643a51131ce8378",
+          "version": "1.0.2"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
